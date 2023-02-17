@@ -1,1 +1,2 @@
 # Colour-Detection-Sensor
+An investigation was conducted through a series of experiments to create a colour sensor that can detect colour and output RGB values to the serial monitor (ranging from 0-255). The colour sensor is composed of an RGB LED and a photoresistor. C++ was used for the Arduino code, which included turning on RGB LEDs, identifying pins/placeholders, set up loops to check the colour balances and output the readings. 
